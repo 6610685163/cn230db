@@ -10,5 +10,5 @@
    pip install requests
 ```
 ```
-   python db.py
+   python gamesdb.py
 ```
