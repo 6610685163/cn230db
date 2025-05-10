@@ -1,14 +1,14 @@
-# CN230 Project Template
+# Game Data Analytics with FreeToGame API
 
-    python db.py
+โปรเจกต์นี้ใช้ภาษา Python เพื่อ:
 
-
-1. fork this repository
-2. run codespaces
-3. when done execute the following git command
+- ดึงข้อมูลเกมฟรีจาก [FreeToGame API](https://www.freetogame.com/api-doc)
+- เก็บข้อมูลไว้ในฐานข้อมูล SQLite
+- วิเคราะห์ข้อมูลด้วย SQL เพื่อสรุปแนวโน้ม เช่น แนวเกมยอดนิยม, เกมที่เปิดตัวเร็วที่สุด, ผู้พัฒนาเกมที่มีเกมมากที่สุด เป็นต้น
 
 ```
-    git add .
-    git commit -m "finished"
-    git push origin main
+   pip install requests
+```
+```
+   python db.py
 ```
