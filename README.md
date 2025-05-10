@@ -10,5 +10,5 @@
    pip install requests
 ```
 ```
-    python main.py
+   python main.py
 ```
