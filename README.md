@@ -1,6 +1,8 @@
 # Game Data Analytics with FreeToGame API
 รายวิชา: CN203
+
 จัดทำโดย: ธนบดี สุดแดน
+
 รหัสนักศึกษา: 6610685163
 
 โปรเจกต์นี้ใช้ภาษา Python เพื่อ:
